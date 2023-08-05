@@ -230,6 +230,7 @@ span{
 }
 .box-content {
   margin: 15px;
+  
 }
 
 .border2{
@@ -345,4 +346,8 @@ ul a{
 .crsec1 p{
   padding-top: 6px;
   font-size: 12px;
+}
+
+.box-content #img1 {
+  background-image: url("Images/box1_image.jpg");
 }
